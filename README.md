@@ -1,13 +1,14 @@
 # redux-toolkit
      
-   App fetche data from Firebase Realtime Database to gather data for movies and user also has option to update movies list.
+   App is build using redux toolkit to manage app wide state for login authentication and for counter management.
 
 ## [Live Demo](https://tarun-sachan.github.io/redux-toolkit/)
 
 
-![Screenshot 2023-04-22 at 13-34-22 React App](https://user-images.githubusercontent.com/117214735/233771354-92510795-4593-4b03-b04e-21929a788109.png)
 
 ![Screenshot 2023-04-22 at 13-34-11 React App](https://user-images.githubusercontent.com/117214735/233771359-2bda94ab-a8cb-4695-9597-ca00de265e01.png)
+
+![Screenshot 2023-04-22 at 13-34-22 React App](https://user-images.githubusercontent.com/117214735/233771354-92510795-4593-4b03-b04e-21929a788109.png)
 
 
 ## Technologies Used
